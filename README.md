@@ -1,4 +1,4 @@
-# 🔗 Spring Boot URL Shortener
+# 🔗 Spring Boot URL Shortener(A Mini Backend Project)
 
 A full-featured URL shortener web application built with **Java**, **Spring Boot**, **Thymeleaf**, and **MySQL**. Users can register, shorten URLs, manage their dashboard, and admins can manage users and URLs. Features include custom expiry, pagination, role-based access, and secure login.
 
